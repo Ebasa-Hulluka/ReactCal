@@ -80,7 +80,7 @@ button:nth-child(16) {
   font-size: 22px;
 }
 
-/* Clear and Delete buttons */
+/* Clear and Dlete buttons */
 button:nth-child(1),
 button:nth-child(2) {
   background: #a5a5a5;
