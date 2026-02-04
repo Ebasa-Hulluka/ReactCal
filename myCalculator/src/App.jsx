@@ -22,6 +22,7 @@ function App() {
 
   function calculate() {
     let result;
+
     const prev = parseFloat(previous);
     const curr = parseFloat(current);
     if (isNaN(prev) || isNaN(curr)) return;
